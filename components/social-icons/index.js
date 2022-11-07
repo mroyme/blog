@@ -15,7 +15,7 @@ const components = {
   youtube: Youtube,
   linkedin: Linkedin,
   twitter: Twitter,
-  mastodon: Mastodon
+  mastodon: Mastodon,
 }
 
 const SocialIcon = ({ kind, href, size = 8 }) => {

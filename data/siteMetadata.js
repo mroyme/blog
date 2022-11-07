@@ -16,7 +16,7 @@ const siteMetadata = {
   facebook: 'https://facebook.com/MadhurjyaSRoy',
   youtube: 'https://youtube.com',
   linkedin: 'https://www.linkedin.com/in/madhurjyaroy',
-  mastodon: 'h,ttps://mastodon.social/@mroy',
+  mastodon: 'https://mastodon.social/@mroy',
   locale: 'en-IN',
   analytics: {
     // If you want to use an analytics provider you have to add it to the
